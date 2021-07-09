@@ -347,10 +347,6 @@ seo:
     - name: 'og:description'
       value: The preview of the DIY theme
       keyName: property
-    - name: 'og:image'
-      value: /_static/app-assets/images/about-1.jpg
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
