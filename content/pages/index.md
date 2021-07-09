@@ -357,7 +357,7 @@ seo:
       value: images/diy-preview.png
       relativeUrl: true
     - name: 'og:image'
-      value: /_static/app-assets/images/energetic-oregano.png
+      value: /images/1.png
       keyName: property
       relativeUrl: true
 layout: advanced
