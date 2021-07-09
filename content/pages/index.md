@@ -356,5 +356,9 @@ seo:
     - name: 'twitter:image'
       value: images/diy-preview.png
       relativeUrl: true
+    - name: 'og:image'
+      value: /images/1.png
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
