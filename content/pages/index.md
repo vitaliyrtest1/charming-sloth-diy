@@ -357,7 +357,7 @@ seo:
       value: images/diy-preview.png
       relativeUrl: true
     - name: 'og:image'
-      value: /images/about-2.jpg
+      value: /images/about-1.jpg
       keyName: property
       relativeUrl: true
 layout: advanced
