@@ -641,7 +641,7 @@ models:
           - no-repeat
         default: no-repeat
         description: Repeat the image to cover the whole area
-      - name: ''
+      - name: items
         type: string
     labelField: title
   features_section:
