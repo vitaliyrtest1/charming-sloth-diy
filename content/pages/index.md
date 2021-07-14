@@ -6,7 +6,7 @@ sections:
     subtitle: Optional hero section subtitle
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie ve![](/images/4.png)
+      ligula, cursus id molestie ve![](/images/about-2.jpg)
     actions:
       - label: Try Free!!
         url: /pricing
