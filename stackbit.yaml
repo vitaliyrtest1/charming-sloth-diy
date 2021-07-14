@@ -646,6 +646,7 @@ models:
         items:
           type: string
         label: items
+        description: Items example
     labelField: title
   features_section:
     type: object
