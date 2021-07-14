@@ -645,7 +645,8 @@ models:
         type: list
         items:
           type: model
-          models: []
+          models:
+            - action
         label: items
         description: Items example
     labelField: title
