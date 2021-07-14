@@ -6,8 +6,7 @@ sections:
     subtitle: Optional hero section subtitle
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie
-      ve![](stackbit_asset_id:static:public/images/4.png)
+      ligula, cursus id molestie ve![](/images/1.png)
     actions:
       - label: Try Free!!
         url: /pricing
