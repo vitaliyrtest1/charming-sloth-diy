@@ -644,7 +644,8 @@ models:
       - name: items
         type: list
         items:
-          type: string
+          type: object
+          fields: []
         label: items
         description: Items example
     labelField: title
