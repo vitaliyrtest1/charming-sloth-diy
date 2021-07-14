@@ -98,7 +98,7 @@ export default class HeroSection extends React.Component {
                                 )}
 
                                 and now items
-                                {!_.isEmpty(actions) && (
+                                {!_.isEmpty(section.items) && (
                                     <div
                                         className={classNames('hero__actions', 'btn-group', {
                                             'justify-center': alignX === 'center',
