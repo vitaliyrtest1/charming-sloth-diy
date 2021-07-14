@@ -7,7 +7,7 @@ sections:
     content: >
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie
-      vel.![](stackbit_asset_id:static:public/images/about-1.jpg)
+      ve![](stackbit_asset_id:static:public/images/4.png)
     actions:
       - label: Try Free!!
         url: /pricing
