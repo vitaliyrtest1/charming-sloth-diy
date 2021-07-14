@@ -645,6 +645,7 @@ models:
         type: list
         items:
           type: string
+        label: items
     labelField: title
   features_section:
     type: object
