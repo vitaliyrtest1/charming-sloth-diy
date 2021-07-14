@@ -642,7 +642,9 @@ models:
         default: no-repeat
         description: Repeat the image to cover the whole area
       - name: items
-        type: string
+        type: list
+        items:
+          type: string
     labelField: title
   features_section:
     type: object
