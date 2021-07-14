@@ -105,7 +105,7 @@ export default class HeroSection extends React.Component {
                                             'justify-end': alignX === 'right'
                                         })}
                                     >
-                                        <SectionActions actions={actions} />
+                                        <SectionActions actions={section.items} />
                                     </div>
                                 )}
                             </div>
