@@ -73,30 +73,6 @@ sections:
       - image: images/logo-6.svg
         image_alt: Next.js logo
         image_align: center
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions: []
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
       - image_alt: Gridsome logo
         image_align: center
       - image: images/logo-8.svg
